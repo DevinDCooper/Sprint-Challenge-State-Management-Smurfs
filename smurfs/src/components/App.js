@@ -19,7 +19,7 @@ const handleChange = (event) => {
   })
 } 
 
-const handleSubmit = (event) => {
+const handleSubmit = (event) => { 
   event.preventDefault()
   props.addSmurfs(fields);
   setFields({
