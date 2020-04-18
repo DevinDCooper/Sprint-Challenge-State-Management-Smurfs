@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+
+
+body {
+  background-color: rgba(203, 9, 9, 0.827) ;
+  color:rgb(22, 176, 228) 
+}
+h1 h2 {
+  color:rgb(22, 176, 228) ;
+}
